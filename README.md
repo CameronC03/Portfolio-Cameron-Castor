@@ -1,0 +1,1 @@
+I made this website from scratch and tried to make it look like the mock up as good as I could. I faced a lot of challenges making it because it was the first site i have made from the ground up. What motivated me to do the project was the first big project ive done on my own. I learned css can be hard and is alot of work.
