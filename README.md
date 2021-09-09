@@ -1,1 +1,2 @@
+![screencapture-file-C-Users-camer-Desktop-bootcamp4-working-material-Portfolio-Cameron-Castor-index-html-2021-09-09-02_08_52](https://user-images.githubusercontent.com/88913327/132648420-c4105e0c-fe4e-410b-87d9-e7d8b10292cc.png)
 I made this website from scratch and tried to make it look like the mock up as good as I could. I faced a lot of challenges making it because it was the first site i have made from the ground up. What motivated me to do the project was the first big project ive done on my own. I learned css can be hard and is alot of work.
