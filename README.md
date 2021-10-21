@@ -8,4 +8,6 @@ https://cameronc03.github.io/Portfolio-Cameron-Castor/
 * HTML
 
 * CSS
+
+* contact me
 cameroncastor05@gmail.com
