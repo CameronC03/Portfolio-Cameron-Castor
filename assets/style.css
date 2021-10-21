@@ -106,6 +106,16 @@ main {
     justify-content: space-between;
 }
 
+.section2{
+    margin: 30px 0;
+    padding: 10px 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
 .section1 h2 {
     flex: 0 0 20%;
     text-align: right;
@@ -114,6 +124,8 @@ main {
     line-height: 1.1;
     
 }
+
+
 
 #About-Me{
     text-align: right;
@@ -124,7 +136,8 @@ main {
 /* flex box*/
 .flex-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
+    
 }
 
 .flexbox-item-1 {
@@ -148,16 +161,16 @@ main {
     align-items: flex-end;
     padding: 0 0 20px 0;
     text-decoration: none;
+    justify-content: center;
+    
+    
 }
 
-.flexbox-item:first-child {
-    grid-column: span 12;
-    grid-row: span 2;
-}
 
 .flexbox-item-1 div, .flexbox-item-2 div , .flexbox-item-3 div, .flexbox-item-4 div, .flexbox-item-5 div{
     background-color: cyan;
     padding: 8px 10px;
+
 }
 
 .flexbox-item h3 {
@@ -169,11 +182,11 @@ main {
 }
 
 .flexbox-item-2 {
-    background-image: url(./images/placeholder-300x202.jpg);
+    background-image: url(./images/screencapture-laurelthorburn-github-io-Live-The-Movie-2021-10-20-21_35_10.png);
 }
 
 .flexbox-item-3 {
-    background-image: url(./images/placeholder-300x202.jpg);
+    background-image: url(./images/screencapture-cameronc03-github-io-Java-Script-Password-Generator-Cameron-Castor-2021-10-20-21_40_17.png);
 }
 
 .flexbox-item-4 {
@@ -197,6 +210,8 @@ main {
 
 .contact-section h3 {
     display: inline-block;
+    justify-content: left;
+    
 }
 
 .contact-section a {
